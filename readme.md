@@ -14,6 +14,7 @@ Use the [OCaml Platform extension](https://marketplace.visualstudio.com/items?it
 
 ## Study path
 
+- [OCaml docs](https://ocaml.org/docs)
 - [Class lectures by Michael Ryan Clarkson of Cornell](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) (2020)
   - [Real World OCaml](https://dev.realworldocaml.org) (2012, 2022)
 - [Eio—Effects-Based Parallel IO for OCaml](https://github.com/ocaml-multicore/eio)
